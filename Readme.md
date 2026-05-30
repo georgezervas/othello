@@ -12,10 +12,16 @@ The program implements the Othello game where the user ('1') plays against the c
 * If no message appears, the compilation was successful.
 
 ## 3. Execution
-Run the program with the following command:
-```bash
-./othello
-```
+Run the program based on your operating system:
+* **On Linux / macOS:**
+  ```bash
+  ./othello
+  ```
+* **On Windows (CMD / PowerShell):**
+  ```bash
+  othello.exe (If othello.exe is not found, simply type othello)
+  ```
+  
 
 ## 4. User Instructions
 * **a) First Player Selection:** The program will ask: `First player ? : (0 for pc , 1 for user)`
