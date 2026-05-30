@@ -97,7 +97,7 @@ int main() {
 					break;
 				}
 				else {
-					"Not valid move";
+					cout << "Not valid move! Try again." << endl;
 
 				}
 			}
