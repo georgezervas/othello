@@ -19,7 +19,10 @@ Run the program based on your operating system:
   ```
 * **On Windows (CMD / PowerShell):**
   ```bash
-  othello.exe (If othello.exe is not found, simply type othello)
+  othello.exe
+  ```
+  ```bash
+  othello
   ```
   
 
